@@ -10,4 +10,5 @@ Basic Learnings :
 3. Learnt about Routes in React
 ***
 ## Output :
-![](./public/todo_ss.jpg)
+![todo_ss](https://user-images.githubusercontent.com/70126570/209459905-5cf0d751-33cf-4c4c-b90b-f38cf6769824.jpg)
+
